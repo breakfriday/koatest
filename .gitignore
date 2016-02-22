@@ -1,0 +1,21 @@
+# eclipse
+.project
+.classpath
+.settings
+.gradle
+.idea
+
+# tmp
+.DS_Store
+.gitkeep
+*.log
+*.swp
+
+# node
+node_modules/
+
+*.art.js
+stats.json
+pro_stats.json
+debug_stats.json
+modules/pages/devBuild/
